@@ -1,5 +1,5 @@
 <h1>Olá, Seja Bem-Vindo ao meu Perfil!</h1>
-<p>Desenvolvedor em constante aprendizado</p>
+<p>Desenvolvedor em constante aprendizado 😉</p>
 <div align="center">
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeapontes&show_icons=true&theme=github_dark" alt="Anurag's github stats" />
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeapontes&layout=compact&theme=github_dark" alt="Top Langs" />
