@@ -7,7 +7,7 @@
 </div>  -->
 
 ##
-<div align="center" style="display: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+<!-- <div align="center" style="display: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,7 +26,7 @@
   
   <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
 
 ## 
 
