@@ -10,19 +10,6 @@
   </a>
 </p>
 
----
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💻 Desenvolvedor com foco em **Front-end e desenvolvimento web**
-- 🚀 Atualmente aprofundando meus conhecimentos em **React e JavaScript**
-- 🌱 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades
-- 💼 Também desenvolvo **projetos freelance e soluções web**
-- 📍 Jundiaí - SP, Brasil
-
----
-
 ## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
@@ -78,22 +65,6 @@
 
 <a href="https://github.com/jorgeapontes">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeapontes&theme=github-dark-blue&hide_border=false" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
-
-## 🚀 Alguns projetos
-
-<div align="center">
-
-<a href="https://github.com/jorgeapontes">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=jorgeapontes&repo=WikiJapi&theme=github_dark" />
-</a>
-
-<a href="https://github.com/jorgeapontes">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=jorgeapontes&repo=risenglish&theme=github_dark" />
 </a>
 
 </div>
