@@ -93,10 +93,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 💡 "O aprendizado nunca termina."
-
-</div>
